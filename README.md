@@ -31,6 +31,7 @@
 ```bash
 git clone https://github.com/shichirjgahama/street-racing.git
 cd Brian-O-Conner-main
+```
 3. **Откройте проект в VS Code**
 4. **Запустите через Live Server**
 
