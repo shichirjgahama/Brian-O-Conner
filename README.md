@@ -28,10 +28,10 @@
 ## 🚀 Установка и Запуск
 
 1. **Клонируйте репозиторий**
-git clone https://github.com/shichirjgahama/street-racing.git
-cd Brian-O-Conner-main
-2. **Откройте проект в VS Code**
-3. **Запустите через Live Server**
+- git clone https://github.com/shichirjgahama/street-racing.git
+- cd Brian-O-Conner-main
+3. **Откройте проект в VS Code**
+4. **Запустите через Live Server**
 
 ## 🎯 Ключевые секции сайта
 
