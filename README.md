@@ -62,7 +62,7 @@ cd Brian-O-Conner-main
 
 ## 📁 Структура проекта
 
-- Brian-O-Conner-main/
+-  `├──` Brian-O-Conner-main/
 -  `├──` **index.html** - Главная страница
 -  `├──` **style.css** - Стили сайта  
 -  `├──` **script.js** - JavaScript логика
