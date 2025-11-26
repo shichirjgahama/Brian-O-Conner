@@ -29,7 +29,7 @@
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/shichirjgahama/street-racing.git
+git clone https://github.com/shichirjgahama/Brian-O-Conner-main.git
 cd Brian-O-Conner-main
 ```
 3. **Откройте проект в VS Code**
@@ -61,15 +61,15 @@ cd Brian-O-Conner-main
 
 ## 📁 Структура проекта
 
-/Brian-O-Conner-main
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── hero-bg.jpg
-│   ├── gallery1-6.jpg
-│   └── ...
-├── README.md
+#/Brian-O-Conner-main
+##├── index.html
+##├── style.css
+##├── script.js
+##├── images/
+###│   ├── hero-bg.jpg
+###│   ├── gallery1-6.jpg
+###│   └── ...
+##├── README.md
 
 📄 Лицензия
 
